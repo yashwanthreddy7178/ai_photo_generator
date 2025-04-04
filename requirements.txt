@@ -6,4 +6,4 @@ pillow
 fastapi[standard]
 fastapi-limiter
 # support .heic images -> see readme
-# pillow-heif 
+pillow-heif 
